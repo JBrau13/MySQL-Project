@@ -8,7 +8,7 @@ In this guided project, I cleaned a dataset consisting of layoff data for severa
 3. Address Null and Blank Values
 4. Remove any Unnecessary Columns
 
-[link to project here](MySQL_Data_Cleaning_Project.sql)
+[link to project here](MySQL%20Data%20Cleaning%20Project.sql)
 
 ### Skills Demonstrated
 - MySQL, window functions, CTEs, updating column data types, JOINs
