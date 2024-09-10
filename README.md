@@ -1,4 +1,4 @@
-# MySQL-Project
+# MySQL-Project 
 
 ## "Alex the Analyst" MySQL Data Cleaning Project
 ### Project Summary
@@ -7,6 +7,8 @@ In this guided project, I cleaned a dataset consisting of layoff data for severa
 2. Standardize the Data
 3. Address Null and Blank Values
 4. Remove any Unnecessary Columns
+
+[link to project here](MySQL_Data_Cleaning_Project.sql)
 
 ### Skills Demonstrated
 - MySQL, window functions, CTEs, updating column data types, JOINs
