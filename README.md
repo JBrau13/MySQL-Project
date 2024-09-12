@@ -1,6 +1,4 @@
-# MySQL-Project 
-
-## "Alex the Analyst" MySQL Data Cleaning Project
+# "Alex the Analyst" MySQL Data Cleaning Project
 ### Project Summary
 This is a guided project from Alex the Analyst's YouTube Data Analytics bootcamp series. In this project I cleaned a dataset consisting of layoff data for several large companies beginning in March of 2020 and ending in March of 2023. I followed the below steps:
 1. Remove Duplicates
